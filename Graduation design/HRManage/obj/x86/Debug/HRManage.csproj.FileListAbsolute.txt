@@ -1,0 +1,61 @@
+C:\Users\Matt\Documents\Tencent Files\1074869142\FileRecv\Graduation design\Graduation design\HRManage\bin\Debug\HRManage.exe.config
+C:\Users\Matt\Documents\Tencent Files\1074869142\FileRecv\Graduation design\Graduation design\HRManage\bin\Debug\HRManage.exe
+C:\Users\Matt\Documents\Tencent Files\1074869142\FileRecv\Graduation design\Graduation design\HRManage\bin\Debug\HRManage.pdb
+C:\Users\Matt\Documents\Tencent Files\1074869142\FileRecv\Graduation design\Graduation design\HRManage\bin\Debug\BLL.dll
+C:\Users\Matt\Documents\Tencent Files\1074869142\FileRecv\Graduation design\Graduation design\HRManage\bin\Debug\Model.dll
+C:\Users\Matt\Documents\Tencent Files\1074869142\FileRecv\Graduation design\Graduation design\HRManage\bin\Debug\BLL.pdb
+C:\Users\Matt\Documents\Tencent Files\1074869142\FileRecv\Graduation design\Graduation design\HRManage\bin\Debug\Model.pdb
+C:\Users\Matt\Documents\Tencent Files\1074869142\FileRecv\Graduation design\Graduation design\HRManage\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Matt\Documents\Tencent Files\1074869142\FileRecv\Graduation design\Graduation design\HRManage\obj\x86\Debug\HRManage.AdminForm.resources
+C:\Users\Matt\Documents\Tencent Files\1074869142\FileRecv\Graduation design\Graduation design\HRManage\obj\x86\Debug\HRManage.EmployeeForm.resources
+C:\Users\Matt\Documents\Tencent Files\1074869142\FileRecv\Graduation design\Graduation design\HRManage\obj\x86\Debug\HRManage.InfoAdd.resources
+C:\Users\Matt\Documents\Tencent Files\1074869142\FileRecv\Graduation design\Graduation design\HRManage\obj\x86\Debug\HRManage.InfoModify.resources
+C:\Users\Matt\Documents\Tencent Files\1074869142\FileRecv\Graduation design\Graduation design\HRManage\obj\x86\Debug\HRManage.Login.resources
+C:\Users\Matt\Documents\Tencent Files\1074869142\FileRecv\Graduation design\Graduation design\HRManage\obj\x86\Debug\HRManage.Properties.Resources.resources
+C:\Users\Matt\Documents\Tencent Files\1074869142\FileRecv\Graduation design\Graduation design\HRManage\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Matt\Documents\Tencent Files\1074869142\FileRecv\Graduation design\Graduation design\HRManage\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Matt\Documents\Tencent Files\1074869142\FileRecv\Graduation design\Graduation design\HRManage\obj\x86\Debug\HRManage.exe
+C:\Users\Matt\Documents\Tencent Files\1074869142\FileRecv\Graduation design\Graduation design\HRManage\obj\x86\Debug\HRManage.pdb
+C:\Users\Anna\Desktop\Graduation design\HRManage\bin\Debug\HRManage.exe.config
+C:\Users\Anna\Desktop\Graduation design\HRManage\obj\x86\Debug\HRManage.exe
+C:\Users\Anna\Desktop\Graduation design\HRManage\obj\x86\Debug\HRManage.pdb
+C:\Users\Anna\Desktop\Graduation design\HRManage\obj\x86\Debug\HRManage.csprojResolveAssemblyReference.cache
+C:\Users\Anna\Desktop\Graduation design\HRManage\obj\x86\Debug\HRManage.FormAdmin.resources
+C:\Users\Anna\Desktop\Graduation design\HRManage\obj\x86\Debug\HRManage.FormEmployee.resources
+C:\Users\Anna\Desktop\Graduation design\HRManage\obj\x86\Debug\HRManage.InfoAdd.resources
+C:\Users\Anna\Desktop\Graduation design\HRManage\obj\x86\Debug\HRManage.InfoModify.resources
+C:\Users\Anna\Desktop\Graduation design\HRManage\obj\x86\Debug\HRManage.frmLogin.resources
+C:\Users\Anna\Desktop\Graduation design\HRManage\obj\x86\Debug\HRManage.Properties.Resources.resources
+C:\Users\Anna\Desktop\Graduation design\HRManage\obj\x86\Debug\HRManage.csproj.GenerateResource.Cache
+C:\Users\Anna\Desktop\Graduation design\HRManage\bin\Debug\HRManage.exe
+C:\Users\Anna\Desktop\Graduation design\HRManage\bin\Debug\HRManage.pdb
+C:\Users\Anna\Desktop\Graduation design\HRManage\bin\Debug\BLL.dll
+C:\Users\Anna\Desktop\Graduation design\HRManage\bin\Debug\Model.dll
+C:\Users\Anna\Desktop\Graduation design\HRManage\bin\Debug\DAL.dll
+C:\Users\Anna\Desktop\Graduation design\HRManage\bin\Debug\BLL.pdb
+C:\Users\Anna\Desktop\Graduation design\HRManage\bin\Debug\Model.pdb
+C:\Users\Anna\Desktop\Graduation design\HRManage\bin\Debug\DAL.pdb
+C:\Users\Anna\Desktop\Graduation design\HRManage\obj\x86\Debug\HRManage.ModifyPassword.resources
+C:\Users\Anna\Desktop\Graduation design\HRManage\obj\x86\Debug\HRManage.FromUserAdd.resources
+C:\Users\Anna\Desktop\Graduation design\HRManage\bin\Debug\CYQ.Data.dll
+C:\Users\Anna\毕设正式\Graduation design\HRManage\bin\Debug\HRManage.exe.config
+C:\Users\Anna\毕设正式\Graduation design\HRManage\bin\Debug\HRManage.exe
+C:\Users\Anna\毕设正式\Graduation design\HRManage\bin\Debug\HRManage.pdb
+C:\Users\Anna\毕设正式\Graduation design\HRManage\bin\Debug\BLL.dll
+C:\Users\Anna\毕设正式\Graduation design\HRManage\bin\Debug\CYQ.Data.dll
+C:\Users\Anna\毕设正式\Graduation design\HRManage\bin\Debug\BLL.pdb
+C:\Users\Anna\毕设正式\Graduation design\HRManage\obj\x86\Debug\HRManage.csprojResolveAssemblyReference.cache
+C:\Users\Anna\毕设正式\Graduation design\HRManage\obj\x86\Debug\HRManage.FormAdmin.resources
+C:\Users\Anna\毕设正式\Graduation design\HRManage\obj\x86\Debug\HRManage.FormEmployee.resources
+C:\Users\Anna\毕设正式\Graduation design\HRManage\obj\x86\Debug\HRManage.FormSkinSet.resources
+C:\Users\Anna\毕设正式\Graduation design\HRManage\obj\x86\Debug\HRManage.InfoAdd.resources
+C:\Users\Anna\毕设正式\Graduation design\HRManage\obj\x86\Debug\HRManage.frmLogin.resources
+C:\Users\Anna\毕设正式\Graduation design\HRManage\obj\x86\Debug\HRManage.ModifyPwd.resources
+C:\Users\Anna\毕设正式\Graduation design\HRManage\obj\x86\Debug\HRManage.Properties.Resources.resources
+C:\Users\Anna\毕设正式\Graduation design\HRManage\obj\x86\Debug\HRManage.FromUserAdd.resources
+C:\Users\Anna\毕设正式\Graduation design\HRManage\obj\x86\Debug\HRManage.csproj.GenerateResource.Cache
+C:\Users\Anna\毕设正式\Graduation design\HRManage\obj\x86\Debug\HRManage.exe
+C:\Users\Anna\毕设正式\Graduation design\HRManage\obj\x86\Debug\HRManage.pdb
+C:\Users\Matt\Documents\Tencent Files\1074869142\FileRecv\Graduation design\HRManage\bin\Debug\HRManage.exe.config
+C:\Users\Matt\Documents\Tencent Files\1074869142\FileRecv\Graduation design\HRManage\obj\x86\Debug\HRManage.exe
+C:\Users\Matt\Documents\Tencent Files\1074869142\FileRecv\Graduation design\HRManage\obj\x86\Debug\HRManage.pdb

@@ -1,0 +1,29 @@
+C:\Users\Matt\Documents\Tencent Files\1074869142\FileRecv\Graduation design\Graduation design\BLL\bin\Debug\BLL.dll
+C:\Users\Matt\Documents\Tencent Files\1074869142\FileRecv\Graduation design\Graduation design\BLL\bin\Debug\BLL.pdb
+C:\Users\Matt\Documents\Tencent Files\1074869142\FileRecv\Graduation design\Graduation design\BLL\bin\Debug\DAL.dll
+C:\Users\Matt\Documents\Tencent Files\1074869142\FileRecv\Graduation design\Graduation design\BLL\bin\Debug\Model.dll
+C:\Users\Matt\Documents\Tencent Files\1074869142\FileRecv\Graduation design\Graduation design\BLL\bin\Debug\DAL.pdb
+C:\Users\Matt\Documents\Tencent Files\1074869142\FileRecv\Graduation design\Graduation design\BLL\bin\Debug\Model.pdb
+C:\Users\Matt\Documents\Tencent Files\1074869142\FileRecv\Graduation design\Graduation design\BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Matt\Documents\Tencent Files\1074869142\FileRecv\Graduation design\Graduation design\BLL\obj\Debug\BLL.dll
+C:\Users\Matt\Documents\Tencent Files\1074869142\FileRecv\Graduation design\Graduation design\BLL\obj\Debug\BLL.pdb
+C:\Users\Anna\Desktop\Graduation design\BLL\bin\Debug\BLL.dll
+C:\Users\Anna\Desktop\Graduation design\BLL\bin\Debug\BLL.pdb
+C:\Users\Anna\Desktop\Graduation design\BLL\bin\Debug\DAL.dll
+C:\Users\Anna\Desktop\Graduation design\BLL\bin\Debug\Model.dll
+C:\Users\Anna\Desktop\Graduation design\BLL\bin\Debug\DAL.pdb
+C:\Users\Anna\Desktop\Graduation design\BLL\bin\Debug\Model.pdb
+C:\Users\Anna\Desktop\Graduation design\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Anna\Desktop\Graduation design\BLL\obj\Debug\BLL.dll
+C:\Users\Anna\Desktop\Graduation design\BLL\obj\Debug\BLL.pdb
+C:\Users\Anna\Desktop\Graduation design\BLL\bin\Debug\CYQ.Data.dll
+C:\Users\Anna\Desktop\Graduation design\BLL\obj\Debug\BLL.ucCheckbox.resources
+C:\Users\Anna\Desktop\Graduation design\BLL\obj\Debug\BLL.csproj.GenerateResource.Cache
+C:\Users\Anna\毕设正式\Graduation design\BLL\bin\Debug\BLL.dll
+C:\Users\Anna\毕设正式\Graduation design\BLL\bin\Debug\BLL.pdb
+C:\Users\Anna\毕设正式\Graduation design\BLL\bin\Debug\CYQ.Data.dll
+C:\Users\Anna\毕设正式\Graduation design\BLL\obj\Debug\BLL.ucCheckbox.resources
+C:\Users\Anna\毕设正式\Graduation design\BLL\obj\Debug\BLL.csproj.GenerateResource.Cache
+C:\Users\Anna\毕设正式\Graduation design\BLL\obj\Debug\BLL.dll
+C:\Users\Anna\毕设正式\Graduation design\BLL\obj\Debug\BLL.pdb
+C:\Users\Anna\毕设正式\Graduation design\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
